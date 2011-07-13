@@ -86,4 +86,5 @@ DEPENDENCIES
   devise_rpx_connectable
   nifty-generators
   rails (= 3.0.0)
+  rake (= 0.8.7)
   sqlite3-ruby (= 1.2.5)

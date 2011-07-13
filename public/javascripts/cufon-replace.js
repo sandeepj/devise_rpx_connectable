@@ -1,0 +1,1 @@
+Cufon.replace('#menu li a, #menu_active, .text1, .button, h2, h3, p, .tip, .justForm', { fontFamily: 'Myriad Pro', hover:true });
